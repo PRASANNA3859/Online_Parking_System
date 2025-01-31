@@ -21,7 +21,7 @@ Online Parking System Using Spring Boot H2-Database & MySQL Database
 ## Installation
 - Just, Clone this repository - 
 ````bash 
-git clone https://github.com/SLoharkar/Online-Parking-System.git
+git clone https://github.com/PRASANNA3859/Online-Parking-System.git
 ````
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
