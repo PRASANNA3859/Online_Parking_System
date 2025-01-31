@@ -28,7 +28,7 @@ git clone https://github.com/SLoharkar/Online-Parking-System.git
 
 ## Website Trailer
 
-https://github.com/SLoharkar/Online-Parking-System/assets/68845746/108942d7-28f3-4c59-bb37-2e3c906bb931
+https://github.com/PRASANNA3859/Online-Parking-System/assets/68845746/108942d7-28f3-4c59-bb37-2e3c906bb931
 
 
 ## Website Highlights
